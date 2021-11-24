@@ -1,0 +1,99 @@
+{
+	"cards":
+	[
+	{
+		"set":"ronStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"ronStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"ronStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"ronStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"ronStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"ronStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"ronStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"ronStart",
+		"name":"Bertie Botts Bohnen jeder Geschmacksrichtung",
+		"type":"item",
+		"text":"Du bekommst 1 Geld. Für jeden in diesem Zug ausgespielten Verbündeten bekommst du 1 Blitz.",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"ronStart",
+		"name":"Sauberwisch 11",
+		"type":"item",
+		"text":"Du bekommst 1 Blitz. Wenn du einen Bösewicht besiegst bekommst du zusätzlich 1 Geld.",
+		"cost":0,
+		"dmg":1
+	},
+	{
+		"set":"ronStart",
+		"name":"Pigwidgeon",
+		"type":"ally",
+		"text":"Wähle: Du bekommst 1 Blitz oder 2 Leben",
+		"cost":0,
+		"choice":[{
+			"set":"ronStart",
+			"name":"Pigwidgeon Choice",
+			"type":"ally",
+			"text":"Du bekommst 1 Blitz.",
+			"cost":0,
+			"dmg":1
+		},{
+			"set":"ronStart",
+			"name":"Pigwidgeon Choice",
+			"type":"ally",
+			"text":"Du bekommst 2 Leben.",
+			"cost":0,
+			"heal":2
+		}]
+	}
+	]
+}

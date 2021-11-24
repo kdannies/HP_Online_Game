@@ -1,0 +1,130 @@
+{
+	"cards":
+	[
+	{
+		"set":"nevilleStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"nevilleStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"nevilleStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"nevilleStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"nevilleStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"nevilleStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"nevilleStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"nevilleStart",
+		"name":"Erinnermich",
+		"type":"item",
+		"text":"Du bekommst 1 Geld. Wenn du diese Karte abwirfst bekommst du 2 Geld.",
+		"cost":0,
+		"money":1,
+		"discardEffect":{
+			"set":"nevilleStart",
+			"name":"Erinnermich Discard",
+			"type":"item",
+			"text":"Du bekommst 2 Geld.",
+			"cost":0,
+			"money":2
+		}
+	},
+	{
+		"set":"nevilleStart",
+		"name":"Alraune",
+		"type":"item",
+		"text":"Wähle: Du bekommst 1 Blitz oder ein Held deiner Wahl bekommt 2 Leben.",
+		"cost":0,
+		"choice":[{
+			"set":"nevilleStart",
+			"name":"Alraune Choice",
+			"type":"item",
+			"text":"Du bekommst 1 Blitz.",
+			"cost":0,
+			"dmg":1
+		},{
+			"set":"nevilleStart",
+			"name":"Alraune Choice",
+			"type":"item",
+			"text":"Ein Held deiner Wahl bekommt 2 Leben.",
+			"cost":0,
+			"any":
+			{
+				"set":"nevilleStart",
+				"name":"Alraune Choice Target",
+				"type":"item",
+				"text":"Ein Held deiner Wahl bekommt 2 Leben.",
+				"cost":0,
+				"numTargets":1,
+				"heal":2
+			}
+		}]
+	},
+	{
+		"set":"nevilleStart",
+		"name":"Trevor",
+		"type":"ally",
+		"text":"Wähle: Du bekommst 1 Blitz oder 2 Leben",
+		"cost":0,
+		"choice":[{
+			"set":"nevilleStart",
+			"name":"Trevor Choice",
+			"type":"ally",
+			"text":"Du bekommst 1 Blitz.",
+			"cost":0,
+			"dmg":1
+		},{
+			"set":"nevilleStart",
+			"name":"Trevor Choice",
+			"type":"ally",
+			"text":"Du bekommst 2 Leben.",
+			"cost":0,
+			"heal":2
+		}]
+	}
+	]
+}

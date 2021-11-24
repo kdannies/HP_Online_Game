@@ -1,0 +1,113 @@
+{
+	"cards":
+	[
+	{
+		"set":"hermineStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"hermineStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"hermineStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"hermineStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"hermineStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"hermineStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"hermineStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"hermineStart",
+		"name":"Zeitumkehrer",
+		"type":"item",
+		"text":"Du bekommst 1 Geld. Du darfst Sprüche, die du in diesem Zug erworben hast, auf deinen Nachziehstabel anstatt auf deinen Ablagestapel legen.",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"hermineStart",
+		"name":"Die Märchen von Beedle dem Barden.",
+		"type":"item",
+		"text":"Wähle: Du bekommst 2 Geld oder alle Helden bekommen 1 Geld.",
+		"cost":0,
+		"choice":[{
+			"set":"hermineStart",
+			"name":"Die Märchen von Beedle dem Barden Choice",
+			"type":"item",
+			"text":"Du bekommst 2 Geld.",
+			"cost":0,
+			"money":2
+		},{
+			"set":"hermineStart",
+			"name":"Die Märchen von Beedle dem Barden Choice",
+			"type":"item",
+			"text":"Alle Helden bekommen ein Geld.",
+			"cost":0,
+			"moneyEach":1
+		}]
+	},
+	{
+		"set":"hermineStart",
+		"name":"Krummbein",
+		"type":"ally",
+		"text":"Wähle: Du bekommst 1 Blitz oder 2 Leben",
+		"cost":0,
+		"choice":[{
+			"set":"hermineStart",
+			"name":"Krummbein Choice",
+			"type":"ally",
+			"text":"Du bekommst 1 Blitz.",
+			"cost":0,
+			"dmg":1
+		},{
+			"set":"hermineStart",
+			"name":"Krummbein Choice",
+			"type":"ally",
+			"text":"Du bekommst 2 Leben.",
+			"cost":0,
+			"heal":2
+		}]
+	}
+	]
+}

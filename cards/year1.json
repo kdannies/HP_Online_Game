@@ -1,0 +1,374 @@
+{
+	"cards":
+	[
+	{
+		"set":"year1",
+		"name":"Reparo!",
+		"type":"spell",
+		"text":"Du bekommst 2 Geld oder ziehe eine Karte.",
+		"cost":3,
+		"choice":[{
+			"name":"Reparo! Choice",
+			"text":"Du bekommst 2 Geld.",
+			"type":"spell",
+			"set":"year1",
+			"cost":3,
+			"money":2
+		},{
+			"name":"Reparo! Choice",
+			"text":"Ziehe eine Karte.",
+			"type":"spell",
+			"set":"year1",
+			"cost":3,
+			"draw":1
+		}]
+	},
+	{
+		"set":"year1",
+		"name":"Reparo!",
+		"type":"spell",
+		"text":"Du bekommst 2 Geld oder ziehe eine Karte.",
+		"cost":3,
+		"choice":[{
+			"name":"Reparo! Choice",
+			"text":"Du bekommst 2 Geld.",
+			"type":"spell",
+			"set":"year1",
+			"cost":3,
+			"money":2
+		},{
+			"name":"Reparo! Choice",
+			"text":"Ziehe eine Karte.",
+			"type":"spell",
+			"set":"year1",
+			"cost":3,
+			"draw":1
+		}]
+	},
+	{
+		"set":"year1",
+		"name":"Reparo!",
+		"type":"spell",
+		"text":"Du bekommst 2 Geld oder ziehe eine Karte.",
+		"cost":3,
+		"choice":[{
+			"name":"Reparo! Choice",
+			"text":"Du bekommst 2 Geld.",
+			"type":"spell",
+			"set":"year1",
+			"cost":3,
+			"money":2
+		},{
+			"name":"Reparo! Choice",
+			"text":"Ziehe eine Karte.",
+			"type":"spell",
+			"set":"year1",
+			"cost":3,
+			"draw":1
+		}]
+	},
+	{
+		"set":"year1",
+		"name":"Reparo!",
+		"type":"spell",
+		"text":"Du bekommst 2 Geld oder ziehe eine Karte.",
+		"cost":3,
+		"choice":[{
+			"name":"Reparo! Choice",
+			"text":"Du bekommst 2 Geld.",
+			"type":"spell",
+			"set":"year1",
+			"cost":3,
+			"money":2
+		},{
+			"name":"Reparo! Choice",
+			"text":"Ziehe eine Karte.",
+			"type":"spell",
+			"set":"year1",
+			"cost":3,
+			"draw":1
+		}]
+	},
+	{
+		"set":"year1",
+		"name":"Reparo!",
+		"type":"spell",
+		"text":"Du bekommst 2 Geld oder ziehe eine Karte.",
+		"cost":3,
+		"choice":[{
+			"name":"Reparo! Choice",
+			"text":"Du bekommst 2 Geld.",
+			"type":"spell",
+			"set":"year1",
+			"cost":3,
+			"money":2
+		},{
+			"name":"Reparo! Choice",
+			"text":"Ziehe eine Karte.",
+			"type":"spell",
+			"set":"year1",
+			"cost":3,
+			"draw":1
+		}]
+	},
+	{
+		"set":"year1",
+		"name":"Reparo!",
+		"type":"spell",
+		"text":"Du bekommst 2 Geld oder ziehe eine Karte.",
+		"cost":3,
+		"choice":[{
+			"name":"Reparo! Choice",
+			"text":"Du bekommst 2 Geld.",
+			"type":"spell",
+			"set":"year1",
+			"cost":3,
+			"money":2
+		},{
+			"name":"Reparo! Choice",
+			"text":"Ziehe eine Karte.",
+			"type":"spell",
+			"set":"year1",
+			"cost":3,
+			"draw":1
+		}]
+	},
+	{
+		"set":"year1",
+		"name":"Wingardium Leviosa!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld. Du darfst Gegenstände, die du in diesem Zug erworben hast, auf deinen Nachziehstapel anstatt auf den Ablagestapel legen.",
+		"cost":2,
+		"money":1
+	},
+	{
+		"set":"year1",
+		"name":"Wingardium Leviosa!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld. Du darfst Gegenstände, die du in diesem Zug erworben hast, auf deinen Nachziehstapel anstatt auf den Ablagestapel legen.",
+		"cost":2,
+		"money":1
+	},
+	{
+		"set":"year1",
+		"name":"Wingardium Leviosa!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld. Du darfst Gegenstände, die du in diesem Zug erworben hast, auf deinen Nachziehstapel anstatt auf den Ablagestapel legen.",
+		"cost":2,
+		"money":1
+	},
+	{
+		"set":"year1",
+		"name":"Incendio!",
+		"type":"spell",
+		"text":"Du bekommst einen Blitz. Ziehe eine Karte.",
+		"cost":4,
+		"dmg":1,
+		"draw":1
+	},
+	{
+		"set":"year1",
+		"name":"Incendio!",
+		"type":"spell",
+		"text":"Du bekommst einen Blitz. Ziehe eine Karte.",
+		"cost":4,
+		"dmg":1,
+		"draw":1
+	},
+	{
+		"set":"year1",
+		"name":"Incendio!",
+		"type":"spell",
+		"text":"Du bekommst einen Blitz. Ziehe eine Karte.",
+		"cost":4,
+		"dmg":1,
+		"draw":1
+	},
+	{
+		"set":"year1",
+		"name":"Incendio!",
+		"type":"spell",
+		"text":"Du bekommst einen Blitz. Ziehe eine Karte.",
+		"cost":4,
+		"dmg":1,
+		"draw":1
+	},
+	{
+		"set":"year1",
+		"name":"Lumos!",
+		"type":"spell",
+		"text":"Alle Helden ziehen eine Karte.",
+		"cost":4,
+		"drawEach":1
+	},
+	{
+		"set":"year1",
+		"name":"Lumos!",
+		"type":"spell",
+		"text":"Alle Helden ziehen eine Karte.",
+		"cost":4,
+		"drawEach":1
+	},
+	{
+		"set":"year1",
+		"name":"Descendo!",
+		"type":"spell",
+		"text":"Du bekommst 2 Blitze",
+		"cost":5,
+		"dmg":2
+	},
+	{
+		"set":"year1",
+		"name":"Descendo!",
+		"type":"spell",
+		"text":"Du bekommst 2 Blitze",
+		"cost":5,
+		"dmg":2
+	},
+	{
+		"set":"year1",
+		"name":"Diptam-Essenz",
+		"type":"item",
+		"text":"Ein Held deiner Wahl bekommt 2 Leben.",
+		"cost":2,
+		"any":{
+			"set":"year1",
+			"name":"Diptam-Essenz Target",
+			"type":"item",
+			"text":"Ein Held deiner Wahl bekommt 2 Leben.",
+			"cost":2,
+			"numTargets":1,
+			"heal":2
+		}
+	},
+	{
+		"set":"year1",
+		"name":"Diptam-Essenz",
+		"type":"item",
+		"text":"Ein Held deiner Wahl bekommt 2 Leben.",
+		"cost":2,
+		"any":{
+			"set":"year1",
+			"name":"Diptam-Essenz Target",
+			"type":"item",
+			"text":"Ein Held deiner Wahl bekommt 2 Leben.",
+			"cost":2,
+			"numTargets":1,
+			"heal":2
+		}
+	},
+	{
+		"set":"year1",
+		"name":"Diptam-Essenz",
+		"type":"item",
+		"text":"Ein Held deiner Wahl bekommt 2 Leben.",
+		"cost":2,
+		"any":{
+			"set":"year1",
+			"name":"Diptam-Essenz Target",
+			"type":"item",
+			"text":"Ein Held deiner Wahl bekommt 2 Leben.",
+			"cost":2,
+			"numTargets":1,
+			"heal":2
+		}
+	},
+	{
+		"set":"year1",
+		"name":"Diptam-Essenz",
+		"type":"item",
+		"text":"Ein Held deiner Wahl bekommt 2 Leben.",
+		"cost":2,
+		"any":{
+			"set":"year1",
+			"name":"Diptam-Essenz Target",
+			"type":"item",
+			"text":"Ein Held deiner Wahl bekommt 2 Leben.",
+			"cost":2,
+			"numTargets":1,
+			"heal":2
+		}
+	},
+	{
+		"set":"year1",
+		"name":"Quidditsch-Ausrüstung",
+		"type":"item",
+		"text":"Du bekommst einen Blitz und ein Leben.",
+		"cost":3,
+		"dmg":1,
+		"heal":1
+	},
+	{
+		"set":"year1",
+		"name":"Quidditsch-Ausrüstung",
+		"type":"item",
+		"text":"Du bekommst einen Blitz und ein Leben.",
+		"cost":3,
+		"dmg":1,
+		"heal":1
+	},
+	{
+		"set":"year1",
+		"name":"Quidditsch-Ausrüstung",
+		"type":"item",
+		"text":"Du bekommst einen Blitz und ein Leben.",
+		"cost":3,
+		"dmg":1,
+		"heal":1
+	},
+	{
+		"set":"year1",
+		"name":"Quidditsch-Ausrüstung",
+		"type":"item",
+		"text":"Du bekommst einen Blitz und ein Leben.",
+		"cost":3,
+		"dmg":1,
+		"heal":1
+	},
+	{
+		"set":"year1",
+		"name":"Goldener Schnatz",
+		"type":"item",
+		"text":"Du bekommst 2 Geld. Ziehe eine Karte.",
+		"cost":5,
+		"money":2,
+		"draw":1
+	},
+	{
+		"set":"year1",
+		"name":"Der sprechende Hut",
+		"type":"item",
+		"text":"Du bekommst 2 Geld. Du darfst Verbündete, die du in diesem Zug erworben hast, auf deinen Nachziehstabpel anstatt auf den Ablagestapel legen.",
+		"cost":4,
+		"money":2
+	},
+	{
+		"set":"year1",
+		"name":"Oliver Wood",
+		"type":"ally",
+		"text":"Du bekommst einen Blitz. Wenn du den Bösewicht besiegst, bekommt ein Held deiner Wahl zusätzlich 2 Leben.",
+		"cost":3,
+		"dmg":1
+	},
+	{
+		"set":"year1",
+		"name":"Albus Dumbledore",
+		"type":"ally",
+		"text":"Alle Helden bekommen einen Blitz, ein Geld, ein Leben und eine Karte.",
+		"cost":8,
+		"dmgEach":1,
+		"moneyEach":1,
+		"healEach":1,
+		"drawEach":1
+	},
+	{
+		"set":"year1",
+		"name":"Rubeus Hagrid",
+		"type":"ally",
+		"text":"Du bekommst einen Blitz. Alle Helden bekommen ein Leben.",
+		"cost":4,
+		"dmg":1,
+		"healEach":1
+	}
+	]
+}

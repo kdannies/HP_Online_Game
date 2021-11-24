@@ -1,0 +1,99 @@
+{
+	"cards":
+	[
+	{
+		"set":"harryStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"harryStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"harryStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"harryStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"harryStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"harryStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"harryStart",
+		"name":"Alohomora!",
+		"type":"spell",
+		"text":"Du bekommst 1 Geld",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"harryStart",
+		"name":"Tarnumhang",
+		"type":"item",
+		"text":"Du bekommst 1 Geld. Wenn du diese Karte auf der Hand hast, kannst du nicht mehr als 1 Leben pro Dunkle-Künste-Karte oder Bösewicht verlieren.",
+		"cost":0,
+		"money":1
+	},
+	{
+		"set":"harryStart",
+		"name":"Feuerblitz",
+		"type":"item",
+		"text":"Du bekommst 1 Blitz. Wenn du einen Bösewicht besiegst bekommst du zusätzlich 1 Geld.",
+		"cost":0,
+		"dmg":1
+	},
+	{
+		"set":"harryStart",
+		"name":"Hedwig",
+		"type":"ally",
+		"text":"Wähle: Du bekommst 1 Blitz oder 2 Leben",
+		"cost":0,
+		"choice":[{
+			"set":"harryStart",
+			"name":"Hedwig Choice",
+			"type":"ally",
+			"text":"Du bekommst 1 Blitz.",
+			"cost":0,
+			"dmg":1
+		},{
+			"set":"harryStart",
+			"name":"Hedwig Choice",
+			"type":"ally",
+			"text":"Du bekommst 2 Leben.",
+			"cost":0,
+			"heal":2
+		}]
+	}
+	]
+}

@@ -1,0 +1,68 @@
+{
+	"cards":[
+	{
+		"set":"year1",
+		"name":"Expulso!",
+		"text":"Der aktive Held verliert 2 Leben.",
+		"dmg":2
+	},
+	{
+		"set":"year1",
+		"name":"Expulso!",
+		"text":"Der aktive Held verliert 2 Leben.",
+		"dmg":2
+	},
+	{
+		"set":"year1",
+		"name":"Expulso!",
+		"text":"Der aktive Held verliert 2 Leben.",
+		"dmg":2
+	},
+	{
+		"set":"year1",
+		"name":"Er, dessen Name nicht genannt werden darf",
+		"text":"Fügt 1 Schaden zum aktuellen Ort hinzu.",
+		"dmgPlace":1
+	},
+	{
+		"set":"year1",
+		"name":"Er, dessen Name nicht genannt werden darf",
+		"text":"Fügt 1 Schaden zum aktuellen Ort hinzu.",
+		"dmgPlace":1
+	},
+	{
+		"set":"year1",
+		"name":"Er, dessen Name nicht genannt werden darf",
+		"text":"Fügt 1 Schaden zum aktuellen Ort hinzu.",
+		"dmgPlace":1
+	},
+	{
+		"set":"year1",
+		"name":"Ganzkörperklammer",
+		"text":"Alle Helden verlieren ein Leben und können in diesem Zug keine zusätzlichen Karten ziehen.",
+		"dmgEach":1,
+		"flagDraw":1
+	},
+	{
+		"set":"year1",
+		"name":"Ganzkörperklammer",
+		"text":"Alle Helden verlieren ein Leben und können in diesem Zug keine zusätzlichen Karten ziehen.",
+		"dmgEach":1,
+		"flagDraw":1
+	},
+	{
+		"set":"year1",
+		"name":"Flipendo",
+		"text":"Der aktive Held verliert ein Leben und muss eine Karte abwerfen.",
+		"dmg":1,
+		"discard":1
+	},
+	{
+		"set":"year1",
+		"name":"Flipendo",
+		"text":"Der aktive Held verliert ein Leben und muss eine Karte abwerfen.",
+		"dmg":1,
+		"discard":1
+	}
+	]
+}
